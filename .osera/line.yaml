@@ -1,0 +1,42 @@
+line: spring-integration-5.5
+bom: org.springframework.integration:spring-integration-bom
+repository: patch-spring-integration
+members:
+  - org.springframework.integration:spring-integration-bom
+  - org.springframework.integration:spring-integration-amqp
+  - org.springframework.integration:spring-integration-core
+  - org.springframework.integration:spring-integration-event
+  - org.springframework.integration:spring-integration-feed
+  - org.springframework.integration:spring-integration-file
+  - org.springframework.integration:spring-integration-ftp
+  - org.springframework.integration:spring-integration-gemfire
+  - org.springframework.integration:spring-integration-groovy
+  - org.springframework.integration:spring-integration-http
+  - org.springframework.integration:spring-integration-ip
+  - org.springframework.integration:spring-integration-jdbc
+  - org.springframework.integration:spring-integration-jms
+  - org.springframework.integration:spring-integration-jmx
+  - org.springframework.integration:spring-integration-jpa
+  - org.springframework.integration:spring-integration-kafka
+  - org.springframework.integration:spring-integration-mail
+  - org.springframework.integration:spring-integration-mongodb
+  - org.springframework.integration:spring-integration-mqtt
+  - org.springframework.integration:spring-integration-r2dbc
+  - org.springframework.integration:spring-integration-redis
+  - org.springframework.integration:spring-integration-rmi
+  - org.springframework.integration:spring-integration-rsocket
+  - org.springframework.integration:spring-integration-scripting
+  - org.springframework.integration:spring-integration-security
+  - org.springframework.integration:spring-integration-sftp
+  - org.springframework.integration:spring-integration-stomp
+  - org.springframework.integration:spring-integration-stream
+  - org.springframework.integration:spring-integration-syslog
+  - org.springframework.integration:spring-integration-test
+  - org.springframework.integration:spring-integration-test-support
+  - org.springframework.integration:spring-integration-webflux
+  - org.springframework.integration:spring-integration-websocket
+  - org.springframework.integration:spring-integration-ws
+  - org.springframework.integration:spring-integration-xml
+  - org.springframework.integration:spring-integration-xmpp
+  - org.springframework.integration:spring-integration-zeromq
+  - org.springframework.integration:spring-integration-zookeeper
